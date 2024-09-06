@@ -14,7 +14,7 @@ body {
      rgba(255, 0, 0, 0.8));
     background-size: 100% 100%;
     */
-    background-image: url('imagem/dogground.jpeg');
+    background-image: url('dogground.jpeg');
     background-size: cover;
     background-position: center;
     display: flex; /* Usa Flexbox para layout */
@@ -30,9 +30,9 @@ body {
 
 /* Estiliza os títulos h1 */
 h1 {
-    color: rgba(155, 255, 61, 0.788);
+    color: rgb(163 255 77 / 88%);
     font-size: 2.5rem; /* Tamanho da fonte */
-    background-color: #40ac0218; /* Cor do texto */
+    background-color: #a4f97300; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
@@ -46,21 +46,21 @@ section {
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
     margin-bottom: 2rem; 
-    color: rgba(97, 194, 0, 0.596);/* Espaçamento abaixo de cada seção */
+    color: rgb(255, 255, 255);/* Espaçamento abaixo de cada seção */
 }
 
 /* Estiliza os inputs dentro das seções */
 section input {
-    width: 30rem; /* Largura dos inputs */
+    width: 50rem; /* Largura dos inputs */
     border: none; /* Remove a borda padrão */
     padding: 1rem; /* Espaçamento interno */
-    border-radius: 1.5rem; /* Borda arredondada */
+    border-radius: 1.0rem; /* Borda arredondada */
     margin-bottom: 1rem; /* Espaçamento abaixo dos inputs */
     color: #000300ab; /* Cor do texto */
     font-size: 1rem; /* Tamanho da fonte */
     box-sizing: border-box; /* Inclui padding e border na largura total */
     font-family: "Roboto",  sans-serif, aitalic;
-    text-transform: capitalize;
+    
 }
 
 /* Estiliza os botões dentro das seções */
@@ -69,8 +69,8 @@ section button {
     padding: 0.8rem 1.2rem; /* Espaçamento interno do botão */
     border: none; /* Remove a borda padrão */
     border-radius: 1.5rem; /* Borda arredondada */
-    background-color: #01970d57; /* Cor de fundo do botão */
-    color: #F5F7F8; /* Cor do texto do botão */
+    background-color: #00440675; /* Cor de fundo do botão */
+    color: #e9fdb9ed; /* Cor do texto do botão */
     font-size: 1rem; /* Tamanho da fonte */
     cursor: pointer; /* Muda o cursor para indicar que é clicável */
 }
@@ -95,11 +95,11 @@ section button:hover {
 /* Estiliza cada item de resultado */
 .item-resultado {
     text-align: center;
-    background: #02fa2398; /* Cor de fundo dos itens */
+    background: #0acb23b3; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
-    box-shadow: 0 2px 4px rgba(138, 138, 138, 0.671); /* Sombra leve */
+    box-shadow: 0 2px 4px rgb(20 20 20 / 91%); /* Sombra leve */
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
@@ -111,7 +111,7 @@ section button:hover {
 /* Estiliza os links dentro dos itens de resultado */
 .item-resultado a {
     text-decoration: none; /* Remove o sublinhado padrão dos links */
-    color: #204d14fa; /* Cor do texto dos links */
+    color: #edededeb; /* Cor do texto dos links */
 }
 
 /* Estiliza os links quando são passados o mouse sobre */
@@ -121,14 +121,14 @@ section button:hover {
 
 /* Estiliza a descrição meta dentro dos itens de resultado */
 .descricao-meta {
-    color: #e0fad9f6; /* Cor do texto */
+    color: #e3ebe0f6; /* Cor do texto */
     margin: 0.5rem 0;
     text-align: justify; 
     text-overflow: ellipsis;/* Margem acima e abaixo */
 }
 
 .descricao-meta:hover{
-    color: #035e03; /* Cor do texto */
+    color: #d9f8d0f6; /* Cor do texto */
     margin: 0.5rem 0;
     text-align: justify; /* Margem acima e abaixo */
 }
@@ -141,7 +141,7 @@ section button:hover {
 /* Estiliza o rodapé da página */
 footer {
     background-color: #aaf39c9c; /* Cor de fundo do rodapé */
-    color: #474f5e; /* Cor do texto */
+    color: #16072ff0; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     padding: 0; /* Espaçamento interno */
     width: 100%; /* Largura total da página */
