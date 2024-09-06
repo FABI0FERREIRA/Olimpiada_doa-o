@@ -1,4 +1,4 @@
-Alura 2024!!!!!!!!!!!!!!!!!!!!!!!!!!!
+IMERSÃO DEV 2024 !!!!!!!!!!!!!!!!!!!!!!!!1
 
 Este arquivo CSS define o estilo visual de uma página web, utilizando uma paleta de cores baseada em gradientes de verde e a técnica de Flexbox para criar um layout responsivo e moderno.
 
