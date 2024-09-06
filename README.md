@@ -29,5 +29,5 @@ Acessibilidade: Verifique se as cores escolhidas possuem contraste suficiente pa
 Otimização: Minifique o CSS para reduzir o tamanho do arquivo e melhorar o desempenho da página.
 Testes: Teste a página em diferentes navegadores e dispositivos para garantir sua compatibilidade.
 
+![Captura de Tela (160)](https://github.com/user-attachments/assets/9a8a5730-62c0-4118-a0d9-993b49443fb7)
 
-![Captura de Tela (160)](https://github.com/user-attachments/assets/4c87c1c4-0c0e-4e06-ad92-6fd1f8445748)
